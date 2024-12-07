@@ -1,0 +1,43 @@
+{
+    "introduction": {
+        "title": "Introduction",
+        "content": "This Privacy Policy explains how we collect, use, and protect your personal information when you use the Dristi App."
+    },
+    "dataCollection": {
+        "title": "Data Collection",
+        "content": [
+            "We collect minimal personal data, such as your email address and usage data, to improve our services.",
+            "We may also collect data related to your device and interactions within the App."
+        ]
+    },
+    "dataUsage": {
+        "title": "Data Usage",
+        "content": "Your personal data will only be used for enhancing user experience and improving services. We do not share your data with third parties without your consent."
+    },
+    "cookies": {
+        "title": "Cookies",
+        "content": "We use cookies to ensure the basic functionality of the App, such as remembering your preferences and login information."
+    },
+    "dataRetention": {
+        "title": "Data Retention",
+        "content": "We retain your personal data as long as necessary for the purposes outlined in this Privacy Policy."
+    },
+    "userRights": {
+        "title": "Your Rights",
+        "content": [
+            "You have the right to access, update, or delete your personal data.",
+            "You can request the deletion of your data by contacting us at any time."
+        ]
+    },
+    "thirdParty": {
+        "title": "Third-Party Services",
+        "content": "The App may include links to third-party services, such as hotel booking platforms. These services have their own privacy policies."
+    },
+    "contactUs": {
+        "title": "Contact Us",
+        "subtitle": "If you have questions regarding our Privacy Policy, please contact us at:",
+        "content": [
+            "Email: dristi360info@gmail.com"
+        ]
+    }
+}
